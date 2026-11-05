@@ -1,9 +1,7 @@
-[README_android.md](https://github.com/user-attachments/files/34445424/README_android.md)
 # 白瓷 Chinese Dictionary — Android-клиент
 
 Мобильное приложение для изучения китайского языка русскоговорящими: словарь на базе БКРС, адаптивный HSK-тест, тренажёр с интервальным повторением (SM-2), ИИ-ассистент для практики диалогов и путеводитель по городам Китая.
 
-> *Дипломный проект (прикладная информатика), защищён на «отлично».*
 > **EN:** Android client for a Chinese–Russian dictionary app with an adaptive HSK placement test, spaced-repetition trainer (SM-2), an AI conversation partner with vocabulary control, and offline travel guides. Backend: [Chinese Dictionary backend](https://github.com/<ВАШ_НИК>/<ИМЯ_BACKEND_РЕПО>).
 
 <!-- Добавьте сюда 3–4 скриншота: docs/screenshots/*.png -->
@@ -87,8 +85,8 @@ app/src/main/java/com/diploma/chinesedictionary/
 
 ## Связанные репозитории
 
-- **Backend (FastAPI, БД, ETL словаря БКРС):** [Chinese Dictionary backend](https://github.com/<ВАШ_НИК>/<ИМЯ_BACKEND_РЕПО>)
+- **Backend (FastAPI, БД, ETL словаря БКРС):** [Chinese Dictionary backend](https://github.com/<hopemask0/<ИМЯ_BACKEND_РЕПО>)
 
 ## Автор
 
-Надя — [GitHub](https://github.com/<ВАШ_НИК>) · контакты в профиле
+Надежда — [GitHub](https://github.com/hopemask0) · контакты в профиле
